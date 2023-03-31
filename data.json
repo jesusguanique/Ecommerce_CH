@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "nombre": "cadena",
+        "precio": 1250,
+        "img" : "./image/cadena.jpg",
+        "cantidad": 1
+
+    },
+    {
+        "id": 2,
+        "nombre": "manubrio",
+        "precio": 1250,
+        "img" : "./image/manubrio.jpg",
+        "cantidad": 1
+
+    },
+    {
+        "id": 3,
+        "nombre": "plato",
+        "precio": 1250,
+        "img" : "./image/plato.jpg",
+        "cantidad": 1
+
+    },
+    {
+        "id": 4,
+        "nombre": "inflador",
+        "precio": 1250,
+        "img" : "./image/inflador.jpg",
+        "cantidad": 1
+
+    },
+    {
+        "id": 5,
+        "nombre": "timbre",
+        "precio": 1250,
+        "img" : "./image/timbre.jpg",
+        "cantidad": 1
+
+    },
+    {
+        "id": 6,
+        "nombre": "herramienta",
+        "precio": 1250,
+        "img" : "./image/herramienta.jpg",
+        "cantidad": 1
+
+    },
+    {
+        "id": 7,
+        "nombre": "casco",
+        "precio": 1250,
+        "img" : "./image/casco.jpg",
+        "cantidad": 1
+
+    },
+    {
+        "id": 8,
+        "nombre": "asiento",
+        "precio": 1250,
+        "img": "./image/asiento.jpg",
+        "cantidad": 1
+
+    }
+]
